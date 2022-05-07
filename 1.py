@@ -167,7 +167,7 @@ def rk_select1():
         print ''
         print '\t\x1b[92;1m Multi Public Id Coining '
         print ''
-        print '\t\x1b[92;1m Use Goob Token Plz '
+        print ''
         try:
             id_limit = int(raw_input('\x1b[93;1m  Limit (\x1b[91;1mExample 10\x1b[93;1m): \x1b[92;1m'))
             print ''
